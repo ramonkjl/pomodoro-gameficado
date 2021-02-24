@@ -10,7 +10,6 @@
 }
 
 .profileContainer div {
-    margin-top: -14rem;
     margin-left: 1.5rem;
 }
 
@@ -21,7 +20,6 @@
 }
 
 .profileContainer div p{
-    margin-top: -3rem !important;
     font-size: 1rem;
     margin-top: 0.5rem;
 }
