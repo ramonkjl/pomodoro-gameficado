@@ -5,7 +5,7 @@ import { CompletedChalenges } from '../components/CompletedChalenges'
 import { Countdown } from '../components/Countdown'
 import { ExperienceBar } from '../components/ExperienceBar'
 import { Profile } from '../components/Profile'
-import { CountdownProvider } from '../contexts/CoundownContext'
+import { CountdownProvider } from '../contexts/CountownContext'
 import styles from '../styles/pages/Home.module.css'
 
 export default function Home() {
